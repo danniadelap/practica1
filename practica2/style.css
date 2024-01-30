@@ -1,0 +1,19 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration: none;
+}
+
+body{
+    background-color: rgb(39, 39, 39);
+    color: white;
+
+}
+
+li > a{
+    color: #117a37;
+
+}
+
+a{
+    color: white;
+}
